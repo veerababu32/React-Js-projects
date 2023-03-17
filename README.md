@@ -11,3 +11,9 @@ https://paradise-restaurant.netlify.app
 
 ToDo list                                                                                                                                 
 https://react-todos-listapp.netlify.app
+
+Wikipedia Search Website: HTML, CSS, JS.                                                                                                     
+https://veerababu32.github.io/Wikipedia-Search/
+
+Fitnessclub Website: HTML, CSS, JS.                                                                                                           
+https://veerababu32.github.io/Fitnessclub-website/
